@@ -1,6 +1,7 @@
 # Project Title
 
 Records start time, end time and duration
+
 Posts a Custom Time Range to the AppDynamics Controller using start and end times
 
 ## Getting Started
